@@ -14,7 +14,7 @@ import android.widget.ImageView;
  */
 
 public class SplashActivity extends Activity{
-    int SPLASH_TIME=2000;
+    int SPLASH_TIME=4000;
     ImageView mCal;
     int mScreenHeight;
     @Override
